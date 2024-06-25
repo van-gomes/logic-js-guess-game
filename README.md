@@ -7,8 +7,8 @@ Este é um jogo simples de adivinhação de números implementado em JavaScript.
 
 Tecnologias utilizadas: HTML | JS
 
-JavaScript : A linguagem de programação principal usada para implementar a lógica do jogo.
-HTML (Alerta e Prompt) : Utilizado para interação do usuário. O jogo usa alertpara exibir mensagens e promptreceber informações do usuário.
+- JavaScript : A linguagem de programação principal usada para implementar a lógica do jogo.
+- HTML (Alerta e Prompt) : Utilizado para interação do usuário. O jogo usa alertpara exibir mensagens e promptreceber informações do usuário.
 
 Como jogar
 Quando o jogo começar, será gerado um número secreto entre 0 e 99.
