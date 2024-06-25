@@ -5,8 +5,7 @@ Jogo de advinhação do número secreto
 Visão geral
 Este é um jogo simples de adivinhação de números implementado em JavaScript. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 0 e 99. O jogo fornece feedback para orientar o jogador na direção do palpite correto.
 
-Tecnologias Utilizadas
-                            HTML | JS
+Tecnologias utilizadas: HTML | JS
 
 JavaScript : A linguagem de programação principal usada para implementar a lógica do jogo.
 HTML (Alerta e Prompt) : Utilizado para interação do usuário. O jogo usa alertpara exibir mensagens e promptreceber informações do usuário.
