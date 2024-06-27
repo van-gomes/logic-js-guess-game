@@ -20,4 +20,9 @@ Após cada palpite, o jogo fornecerá feedback:
 - Ao final do jogo são exibidos: o número secreto, a quantidade de tentativas realizadas e mensagem de sucesso.
 O jogo continua até que o jogador adivinhe corretamente o número secreto.
 
+https://github.com/van-gomes/logic-js-guess-game/assets/172148258/bbbf6da0-b488-4b69-8b1b-3dce9381e2d3
+
+
+
+
 
