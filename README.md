@@ -17,4 +17,7 @@ Após cada palpite, o jogo fornecerá feedback:
 - Se o palpite estiver correto, uma mensagem de parabéns será exibida.
 - Se o palpite for muito baixo, o jogo solicitará que o jogador insira um número maior.
 - Se o palpite for muito alto, o jogo solicitará que o jogador insira um número menor.
+- Ao final do jogo são exibidos: o número secreto, a quantidade de tentativas realizadas e mensagem de sucesso.
 O jogo continua até que o jogador adivinhe corretamente o número secreto.
+
+
